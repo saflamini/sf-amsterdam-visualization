@@ -1,0 +1,788 @@
+/10^18
+
+{
+  "data": {
+    "accountTokenSnapshots": [
+      {
+        "totalOutflowRate": "20447530864195",
+        "account": {
+          "id": "0x42d68d4e81087e43e70f6fd56be4ee356da3a3ac",
+          "outflows": [
+            {
+              "receiver": {
+                "id": "0x05ab5b4bf1e6ec58be975073e41bedc4790ab0ed"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x0a70fbb45bc8c70fb94d8678b92686bb69dea3c3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x0a70fbb45bc8c70fb94d8678b92686bb69dea3c3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x0a70fbb45bc8c70fb94d8678b92686bb69dea3c3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x0a70fbb45bc8c70fb94d8678b92686bb69dea3c3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x0a70fbb45bc8c70fb94d8678b92686bb69dea3c3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x0a70fbb45bc8c70fb94d8678b92686bb69dea3c3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x0cb9cd99dbc614d9a0b31c9014185dfbbe392eb5"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x18eaf7effb80f929ba7eae1093157e84a1b5d92e"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x1b784725944ee55eb74f41e29d1262a0dd4d9135"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x27c7d067a0c143990ec6ed2772e7136cfcfaecd6"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x27c7d067a0c143990ec6ed2772e7136cfcfaecd6"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x2ec20e5aa17f736060356f6b186208d5ce0ab4b4"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x3239ef4d5edcbb8ca9fe762f417134dd6e381c08"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x387af38c133056a0744fb6e823cdb459ae3c5a1f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x387af38c133056a0744fb6e823cdb459ae3c5a1f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x387af38c133056a0744fb6e823cdb459ae3c5a1f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x3941e2e89f7047e0ac7b9cce18fbe90927a32100"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x3941e2e89f7047e0ac7b9cce18fbe90927a32100"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x44fd8c2bdb8d9115e32ce928b61353cef483c540"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x44fd8c2bdb8d9115e32ce928b61353cef483c540"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x48c0446b0f6d71c62ac3ccced91a163b0b9ee406"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x4c0a466df0628fe8699051b3ac6506653191cc21"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x5786d3754443c0d3d1ddea5bb550ccc476fdf11d"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x5786d3754443c0d3d1ddea5bb550ccc476fdf11d"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x648aa14e4424e0825a5ce739c8c68610e143fb79"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x678decc307a69a0ea6ff84d9365acb9ec21bd9c3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x71f649eb05aa48cf8d92328d1c486b7d9fdbff6b"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x71f649eb05aa48cf8d92328d1c486b7d9fdbff6b"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x71f649eb05aa48cf8d92328d1c486b7d9fdbff6b"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x71f649eb05aa48cf8d92328d1c486b7d9fdbff6b"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x8082ab2f4e220dad92689f3682f3e7a42b206b42"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x8082ab2f4e220dad92689f3682f3e7a42b206b42"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x80898b704baa55e7e37f1128fc6ae5836661f54a"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x844b867b1d14a1806a6efaef080ef0f034ab8102"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x84a58511e6a9b6bf6b0218d64d25dd7a354e485c"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9b7df3a2df61e72df5c4d565a0e017d7c5c6e532"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9b7df3a2df61e72df5c4d565a0e017d7c5c6e532"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9b7df3a2df61e72df5c4d565a0e017d7c5c6e532"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9b7df3a2df61e72df5c4d565a0e017d7c5c6e532"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9bef427fa1ff5269b824eed9415f7622b81244f5"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9bef427fa1ff5269b824eed9415f7622b81244f5"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9bef427fa1ff5269b824eed9415f7622b81244f5"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9bef427fa1ff5269b824eed9415f7622b81244f5"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9bef427fa1ff5269b824eed9415f7622b81244f5"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9bef427fa1ff5269b824eed9415f7622b81244f5"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9bef427fa1ff5269b824eed9415f7622b81244f5"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9bef427fa1ff5269b824eed9415f7622b81244f5"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xbe79a6fd39a8e8b0ff7e1af1ea6e264699680584"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xd1afcdc2542f161bdaf34c3b77d860fedcd4626d"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xdea35e63304e09d2724ce3cda82e04b44a0ccba3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xe0a0ec8dee2f73943a6b731a2e11484916f45d44"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xecbe3854b26750b301341bad149185e55544aba1"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xf8a025b42b07db05638fe596cce339707ec3cc71"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "totalOutflowRate": "12962962962933",
+        "account": {
+          "id": "0x9d7894ed2ddb65e0ca36fe872cbb57b8e9aaddac",
+          "outflows": [
+            {
+              "receiver": {
+                "id": "0x0154d25120ed20a516fe43991702e7463c5a6f6e"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x0a70fbb45bc8c70fb94d8678b92686bb69dea3c3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x0a70fbb45bc8c70fb94d8678b92686bb69dea3c3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x0c3483e3b355986d6bb76e3cebbc8dd8ec20779c"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x1032bc575e9d9ae556693e545dc814e25504eb22"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x187127f781f466fcc96637c11f53be8fad3a632e"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x208499261b5eec3af23db25e56bf8e75dfc83ae4"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x220519a218b855700c66a7e5f1a60bdbe29add09"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x252d432e09d278d11ab16fadc5e02707da3f056a"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x29e95eb8b1ce9aeb4c645e7a218f851cced65d18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x2e9e3c24049655f2d8c59f08602da3de4ad34188"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x3941e2e89f7047e0ac7b9cce18fbe90927a32100"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x4005b0698a9e577b47dd94ec66fc5b451fdb5a75"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x43befc4d62bb6cf213a2e9e0236211266fd15d66"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x47de4fd666373ca4a793e2e0e7f995ea7d3c9a29"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x47de4fd666373ca4a793e2e0e7f995ea7d3c9a29"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x4b933cd9e9965be2388aa2b0e26f4104decd9e27"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x589e4c59152eb7ee3e5a8a1baabcb52af16a669c"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x60b1f37eb3bc28a17a6e56c861e0c91396ac05dd"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x6ae7bf291028ccf52991bd020d2dc121b40bce2a"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x6fd5a849cc4bb26fde7737395e3b4a91f3b78a5a"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x71f649eb05aa48cf8d92328d1c486b7d9fdbff6b"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x744789f1da3c2c339b2e9d0ae23236b90b4a45cd"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x8082ab2f4e220dad92689f3682f3e7a42b206b42"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x8082ab2f4e220dad92689f3682f3e7a42b206b42"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x81ea02098336435d5e92e032c029aab850304f5d"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x8919014b0f6746407ce40670737bf8aab96f8124"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x8b02f9ae3f6737a4bf079f91bc03ae2578c9316a"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x93d2d0812c9856141b080e9ef6e97c7a7b342d7f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x94e5b18309066dd1e5ae97628afc9d4d7eb58161"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x94e5b18309066dd1e5ae97628afc9d4d7eb58161"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9651e30a1ce5905e2810216700538e71e2cd6ca1"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9b7ec5d797210cdcd2716bd873a6965ca2133bef"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9bef427fa1ff5269b824eed9415f7622b81244f5"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9c8c16cd2a7a695ae30920ee4c3f558893665c55"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x9d00f0c4dbc82a516892f233849bc25509044c6a"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xa08f80dc1759b12fdc40a4dc64562b322c418e1f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xa3b4aad15cd62473807f95b120502ecf799072e9"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xa5eb500fcd5f85d30b38a84b433f343f100267d9"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xaa9ea794dcf87846d6da55b904a2f38fbb73a98a"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xad95a5fe898679b927c266eb2edfabc7fe268c27"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xaef1889d58677805399c6f8326c11d159b09caf2"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xbacc2d322c4bc33f52c886016129c8c157fca7be"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xbe79a6fd39a8e8b0ff7e1af1ea6e264699680584"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xbe79a6fd39a8e8b0ff7e1af1ea6e264699680584"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xc1889adda0e4f31ba55a7ea909f9a93852e1b424"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xc2d201037bdf8f7fe905f1073106bf4385b65a6f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xc89583fa7b84d81fe54c1339ce3feb10de8b4c96"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xc89583fa7b84d81fe54c1339ce3feb10de8b4c96"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xcaed95a314f733079bd8c8b46c0fb53eae6d500f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xce9ee0d5e51f9ca48899531105b0f887ead8902d"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xd4ddeca541af8defe16288b7295011d77bc21d41"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xd55965b4d2f883ca69c7e7265ee00227539e3ad6"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xdc19ed26ad3a544e729b72b50b518a231cbad9ab"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xdc19ed26ad3a544e729b72b50b518a231cbad9ab"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xdd59f271e2c905148dac57416d3ce781f8a39342"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xe093d8a4269ce5c91cd9389a0646badab2c8d9a3"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xe0a0ec8dee2f73943a6b731a2e11484916f45d44"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xed27fece61928cd410acd7d4528c3600e6c570b9"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xee7cddb1bfcf5b3d978d51c9f8c5be6f6fc14a4d"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xf5bad52dff69618b6de01745a62ca2e961987b1f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xf9a99e93be712b1669c401b00640bd9b02626d16"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xfab4b5f085691e6174190427f69ebc3ec9f80f9c"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xfed02431ddfa9421cb075736f9897bd4eb689686"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xffb6d3c42b07c17ed0b6be1136d2ebc599b2562e"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "totalOutflowRate": "4243827160493",
+        "account": {
+          "id": "0xe50e41b64620007be5b105bc9aff9ca51903f471",
+          "outflows": [
+            {
+              "receiver": {
+                "id": "0x81ba93b26bce8ca5d649b6607df15e6d45462d8f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "totalOutflowRate": "3858024691358",
+        "account": {
+          "id": "0xdb099e06e52c611a702840ca986f75662a8bca60",
+          "outflows": [
+            {
+              "receiver": {
+                "id": "0x81ba93b26bce8ca5d649b6607df15e6d45462d8f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x98d463a3f29f259e67176482eb15107f364c7e18"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "totalOutflowRate": "158548959918",
+        "account": {
+          "id": "0x4809453c254609f86393728336014f69dfc745dd",
+          "outflows": [
+            {
+              "receiver": {
+                "id": "0x216a82e6df1a30de932ca214e329055c904ffd96"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x250efbb94de68dd165bd6c98e804e08153eb91c6"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x3ba5986f81869596e1b40a7035b01da9f0d0d58b"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0x93d2d0812c9856141b080e9ef6e97c7a7b342d7f"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xa961f1041c98b30d25d08fa5cf0e0c1a703ab7a7"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xa961f1041c98b30d25d08fa5cf0e0c1a703ab7a7"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xa961f1041c98b30d25d08fa5cf0e0c1a703ab7a7"
+              }
+            },
+            {
+              "receiver": {
+                "id": "0xeb6e02d1a96e84fdfd0ab304e234eadaf5afcbc6"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
