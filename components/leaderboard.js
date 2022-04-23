@@ -31,7 +31,7 @@ function leaderBoard(data) {
               return (
                 <div className="grid grid-cols-2 pr-5 font-mono" key={node.id}>
                   <div className="text-white font-medium">
-                    {index + 1}. {node.name ? node.name : smallAddress(node.id)}
+                    - {node.name ? node.name : smallAddress(node.id)}
                   </div>
                   <div className="text-right text-white pr-20 mr-20">
                     {formatFlowRateToDaily(node.totalOutflowRate)}

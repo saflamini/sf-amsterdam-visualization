@@ -60,6 +60,8 @@ function ConstructNodeAndLinkData(data) {
         target: receiver.id,
         curvature: 0,
         rotation: 0,
+        linkDirectionalParticleWidth: 10,
+        linkDirectionalParticleWidth: 10
       };
       links.push(link);
     });

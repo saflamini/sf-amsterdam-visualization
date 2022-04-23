@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .scrollable-container {
-  max-height: 25vh;
+  max-height: 75%;
   overflow-y: scroll;
 }
 
